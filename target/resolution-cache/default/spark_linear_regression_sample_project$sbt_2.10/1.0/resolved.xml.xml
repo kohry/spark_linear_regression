@@ -4,7 +4,7 @@
 		module="spark_linear_regression_sample_project$sbt_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20170112074456"
+		publication="20170205202409"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
